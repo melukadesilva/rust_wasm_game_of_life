@@ -1,0 +1,2 @@
+Simple implementation of game of like in a rusty way.
+Compile target is WASM -> Run on browser
